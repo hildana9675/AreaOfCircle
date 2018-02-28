@@ -1,4 +1,4 @@
-/* By Hildana Melaku
+/* By Hildana.M
  * BillOfSale.java
  * This program calculates the purchased price, total, taxes, 
  * and change of a shirt
